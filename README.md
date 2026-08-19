@@ -34,7 +34,3 @@ A modern, responsive, and interactive personal portfolio website built with HTML
 * **Icons**: [Font Awesome 6](https://fontawesome.com/)
 * **Typography**: Google Fonts ([Inter](https://fonts.google.com/specimen/Inter))
 * **Form Handling**: [Formspree](https://formspree.io/)
-
----
-   ```bash
-   git clone [https://github.com/benjaminsathiaraja/portfolio.git](https://github.com/benjaminsathiaraja/portfolio.git)
