@@ -36,15 +36,5 @@ A modern, responsive, and interactive personal portfolio website built with HTML
 * **Form Handling**: [Formspree](https://formspree.io/)
 
 ---
-
-## Getting Started
-
-### Prerequisites
-
-No complex framework or node environment is required. You only need a modern web browser.
-
-### Installation
-
-1. **Clone the repository:**
    ```bash
    git clone [https://github.com/benjaminsathiaraja/portfolio.git](https://github.com/benjaminsathiaraja/portfolio.git)
